@@ -1,8 +1,6 @@
 # 👋 Hey there, I’m Antonije Ljubisa!
 
 
----
-
 ## 🧠 About Me
 
 - 💻 Full-stack developer (specializing in **React**, **Node.js**, and **TypeScript**)
@@ -24,10 +22,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luffylando&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=20v=1" width="33%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luffylando&theme=tokyonight&hide_border=true&border_radius=20v=1" width="33%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luffylando&layout=compact&theme=tokyonight&hide_border=true&border_radius=20v=1" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luffylando&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=20v=2" width="33%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luffylando&theme=tokyonight&hide_border=true&border_radius=20v=2" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luffylando&layout=compact&theme=tokyonight&hide_border=true&border_radius=20v=2" width="33%" />
 </p>
-
-
----
