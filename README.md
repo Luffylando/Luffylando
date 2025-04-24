@@ -1,6 +1,5 @@
 # 👋 Hey there, I’m Antonije Ljubisa!
 
-<img src="https://media.giphy.com/media/RvBSSwE5AeS8g/giphy.gif" width="100%" alt="Luffy GIF" />
 
 ---
 
@@ -16,23 +15,13 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-JavaScript • TypeScript • HTML • CSS • SQL
+**Languages:** JavaScript, TypeScript, PHP, HTML, CSS, SQL  
+**Frontend:** React, Next.js, TailwindCSS  
+**Backend:** Node.js, Express, NestJS, MongoDB, PostgreSQL  
+**DevOps:** Docker, GitHub Actions, Vercel, Heroku  
+**Testing:** Jest, Cypress, Playwright  
+**Others:** Zustand, React Query, Prisma, WebSockets, XState, Redux
 
-**Frontend:**  
-React • Next.js • Redux • TailwindCSS
-
-**Backend:**  
-Node.js • Express • NestJS • MongoDB • PostgreSQL
-
-**DevOps:**  
-Docker • GitHub Actions • Vercel • Heroku
-
-**Testing:**  
-Jest • Cypress • Playwright
-
-**Others:**  
-Zustand • Prisma • WebSockets • XState
 
 ---
 
@@ -48,9 +37,3 @@ Zustand • Prisma • WebSockets • XState
 </p>
 
 ---
-
-> _"I'm gonna be the King of the Pirates!"_ — Monkey D. Luffy
-
-<p align="center">
-  <img src="https://media.giphy.com/media/yidU0QJMEQd2c/giphy.gif" width="250" alt="Luffy Thumbs Up" />
-</p>
