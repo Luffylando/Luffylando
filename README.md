@@ -1,4 +1,5 @@
 # 👋 Hey there, I’m Antonije Ljubisa!
+(https://tenor.com/en-GB/view/one-piece-pixel-pixel-art-fanart-fanmade-gif-11741274964386933829)
 
 ## 🛠️ Tech Stack
 
@@ -22,5 +23,6 @@ Others: Zustand • Prisma • WebSockets • XState
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Luffylando&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luffylando&layout=compact&theme=tokyonight" /> </p>
+## 🧠 Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Luffylando&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=20" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luffylando&theme=tokyonight&hide_border=true&border_radius=20" width="48%" /> <br /><br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luffylando&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" width="50%" /> </p>
 
