@@ -1,7 +1,5 @@
 # 👋 Hey there, I’m Antonije Ljubisa!
 
-![Luffy Banner][(https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)](https://tenor.com/en-GB/view/one-piece-pixel-pixel-art-fanart-fanmade-gif-11741274964386933829)
-
 ## 🛠️ Tech Stack
 
 ```ts
@@ -17,10 +15,12 @@ Others: Zustand • Prisma • WebSockets • XState
 
 ## 🧠 About Me
 - 💻 Full-stack developer (specializing in **React**, **Node.js**, and **TypeScript**)
-- ⚙️ Currently working on: <your current project or role>
-- 🌱 Learning: <new tech or tool you're exploring>
-- 🤝 Open to collaborations on: interesting web projects, OSS, or cool side ideas
-- 📫 How to reach me: <email or socials>
+- ⚙️ Currently working on: Lean Library web extension
+- 🌱 Learning: Astro, Kafka, Python, Micro Services, Kubernetes...
+- 🤝 Open to collaborations on interesting web projects
+- 📫 How to reach me: ogistdipen@outlook.com
 
 ---
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&theme=tokyonight" /> </p>
 
