@@ -1,8 +1,17 @@
 # 👋 Hey there, I’m Antonije Ljubisa!
 
-![Luffy Banner](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
+![Luffy Banner][(https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)](https://tenor.com/en-GB/view/one-piece-pixel-pixel-art-fanart-fanmade-gif-11741274964386933829)
 
-I'm a passionate developer who believes in learning by building. I love clean code, scalable architecture, and turning complex problems into elegant solutions. When I'm not coding, you'll find me binging anime or hunting for the next great coffee spot ☕.
+## 🛠️ Tech Stack
+
+```ts
+Languages: JavaScript • TypeScript • HTML • CSS • SQL
+Frontend: React • Next.js • Redux • TailwindCSS
+Backend: Node.js • Express • NestJS • MongoDB • PostgreSQL
+DevOps: Docker • GitHub Actions • Vercel • Heroku
+Testing: Jest • Cypress • Playwright
+Others: Zustand • Prisma • WebSockets • XState
+
 
 ---
 
@@ -15,12 +24,3 @@ I'm a passionate developer who believes in learning by building. I love clean co
 
 ---
 
-## 🛠️ Tech Stack
-
-```ts
-Languages: JavaScript • TypeScript • HTML • CSS • SQL
-Frontend: React • Next.js • Redux • TailwindCSS
-Backend: Node.js • Express • NestJS • MongoDB • PostgreSQL
-DevOps: Docker • GitHub Actions • Vercel • Heroku
-Testing: Jest • Cypress • Playwright
-Others: Zustand • Prisma • WebSockets • XState
