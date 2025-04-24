@@ -22,13 +22,14 @@
 ### 📊 GitHub Stats
 
 <div>
-<p align="center>
-  <img src="https://github-readme-stats.vercel.app/api?username=Luffylando&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=20v" width="50%" />
-</p>
-<p align="center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luffylando&layout=compact&theme=tokyonight&count_private=true&hide_border=true&border_radius=20v" width="50%" />
-</p>
-<p align="center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luffylando&theme=tokyonight&hide_border=true&count_private=true&border_radius=20" width="50%" />
-</p>
+  <p align="start">
+    <img src="https://github-readme-stats.vercel.app/api?username=Luffylando&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=20" width="50%" />
+  </p>
+  <p align="start">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luffylando&layout=compact&theme=tokyonight&count_private=true&hide_border=true&border_radius=20" width="50%" />
+  </p>
+  <p align="start">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luffylando&theme=tokyonight&hide_border=true&count_private=true&border_radius=20" width="50%" />
+  </p>
 </div>
+
