@@ -3,7 +3,6 @@
 
 ## 🛠️ Tech Stack
 
-```ts
 Languages: JavaScript • TypeScript • HTML • CSS • SQL
 Frontend: React • Next.js • Redux • TailwindCSS
 Backend: Node.js • Express • NestJS • MongoDB • PostgreSQL
@@ -12,7 +11,6 @@ Testing: Jest • Cypress • Playwright
 Others: Zustand • Prisma • WebSockets • XState
 
 
----
 
 ## 🧠 About Me
 - 💻 Full-stack developer (specializing in **React**, **Node.js**, and **TypeScript**)
@@ -21,8 +19,6 @@ Others: Zustand • Prisma • WebSockets • XState
 - 🤝 Open to collaborations on interesting web projects
 - 📫 How to reach me: ogistdipen@outlook.com
 
----
 
-## 🧠 Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Luffylando&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=20" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luffylando&theme=tokyonight&hide_border=true&border_radius=20" width="48%" /> <br /><br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luffylando&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" width="50%" /> </p>
 
