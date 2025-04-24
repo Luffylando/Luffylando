@@ -1,5 +1,5 @@
 # 👋 Hey there, I’m Antonije Ljubisa!
-(https://tenor.com/en-GB/view/one-piece-pixel-pixel-art-fanart-fanmade-gif-11741274964386933829)
+![Luffy](https://giphy.com/gifs/one-piece-luffy-Ju7l5y9osyymQ)
 
 ## 🛠️ Tech Stack
 
