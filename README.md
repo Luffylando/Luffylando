@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey there, I’m Antonije Ljubisa!
 
-<!--
-**Luffylando/Luffylando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Luffy Banner](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
 
-Here are some ideas to get you started:
+I'm a passionate developer who believes in learning by building. I love clean code, scalable architecture, and turning complex problems into elegant solutions. When I'm not coding, you'll find me binging anime or hunting for the next great coffee spot ☕.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 💻 Full-stack developer (specializing in **React**, **Node.js**, and **TypeScript**)
+- ⚙️ Currently working on: <your current project or role>
+- 🌱 Learning: <new tech or tool you're exploring>
+- 🤝 Open to collaborations on: interesting web projects, OSS, or cool side ideas
+- 📫 How to reach me: <email or socials>
+
+---
+
+## 🛠️ Tech Stack
+
+```ts
+Languages: JavaScript • TypeScript • HTML • CSS • SQL
+Frontend: React • Next.js • Redux • TailwindCSS
+Backend: Node.js • Express • NestJS • MongoDB • PostgreSQL
+DevOps: Docker • GitHub Actions • Vercel • Heroku
+Testing: Jest • Cypress • Playwright
+Others: Zustand • Prisma • WebSockets • XState
