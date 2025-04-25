@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Antonije Ljubisa!
+# Hi there, I’m Antonije Ljubisa!
 
 <p align="start">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNxaGpjc2E3Y3c2ejhqcGx3cnNjb2d0MTVkN290Nm92cWdxMjh2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghCX1B38YFXAwttIkg/giphy.gif" width="200" />
