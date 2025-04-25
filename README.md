@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Antonije Ljubisa!
 
 <p align="start">
-  <img src="[https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNxaGpjc2E3Y3c2ejhqcGx3cnNjb2d0MTVkN290Nm92cWdxMjh2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghCX1B38YFXAwttIkg/giphy.gif)" width="200" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNxaGpjc2E3Y3c2ejhqcGx3cnNjb2d0MTVkN290Nm92cWdxMjh2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghCX1B38YFXAwttIkg/giphy.gif" width="200" />
 </p>
 ### 🧠 About Me
 
@@ -13,9 +13,9 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** JavaScript, TypeScript, PHP, HTML, CSS, SQL  
-**Frontend:** React, Next.js, TailwindCSS  
-**Backend:** Node.js, Express, NestJS, MongoDB, PostgreSQL  
-**DevOps:** Docker, GitHub Actions, Vercel, Heroku  
-**Testing:** Jest, Cypress, Playwright  
-**Others:** Zustand, React Query, Prisma, WebSockets, XState, Redux
+- **Languages:** JavaScript, TypeScript, PHP, HTML, CSS, SQL  
+- **Frontend:** React, Next.js, TailwindCSS  
+- **Backend:** Node.js, Express, NestJS, MongoDB, PostgreSQL  
+- **DevOps:** Docker, GitHub Actions, Vercel, Heroku  
+- **Testing:** Jest, Cypress, Playwright  
+- **Others:** Zustand, React Query, Prisma, WebSockets, XState, Redux
