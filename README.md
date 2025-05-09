@@ -14,9 +14,9 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** JavaScript, TypeScript, PHP, HTML, CSS, SQL  
-- **Frontend:** React, Next.js, TailwindCSS  
-- **Backend:** Node.js, Express, NestJS, MongoDB, PostgreSQL  
-- **DevOps:** Docker, GitHub Actions, Vercel, Heroku  
-- **Testing:** Jest, Cypress, Playwright  
+- **Languages:** JavaScript, TypeScript, PHP, HTML, CSS, SQL
+- **Frontend:** React, Next.js, TailwindCSS
+- **Backend:** Node.js, Express, NestJS, MongoDB, PostgreSQL
+- **DevOps:** Docker, GitHub Actions, Vercel
+- **Testing:** Jest, Cypress, Playwright
 - **Others:** Zustand, React Query, Prisma, WebSockets, XState, Redux
