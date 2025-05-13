@@ -7,7 +7,7 @@
 ### 🧠 About Me
 
 - 💻 Full-stack developer (specializing in **React**, **Node.js**, and **TypeScript**)
-- ⚙️ Currently working on: **Lean Library** web extension
+- ⚙️ Currently working for: SmartCat.io
 - 🌱 Learning: Astro, Kafka, Python, Microservices, Kubernetes...
 - 🤝 Open to collaborations on interesting web projects
 - 📫 Reach me at: **ogistdipen@outlook.com**
